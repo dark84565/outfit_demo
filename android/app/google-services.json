@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "492361164947",
+    "firebase_url": "https://product-63ece.firebaseio.com",
+    "project_id": "product-63ece",
+    "storage_bucket": "product-63ece.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492361164947:android:884b709f4d5b4449448566",
+        "android_client_info": {
+          "package_name": "com.example.clothes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492361164947-5ust0vmmrrroruoa0bujf00g3js49f8j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clothes_app",
+            "certificate_hash": "e9ebb68db7708aa6145e54dec8a5490945e446c6"
+          }
+        },
+        {
+          "client_id": "492361164947-oc7sof06o3opl7g4j9p5sauo23lu4ph0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPtm3llvcIVvvprFV2d50yIEkTuQXlCr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492361164947-oc7sof06o3opl7g4j9p5sauo23lu4ph0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492361164947:android:d08c1b69db44a1b7448566",
+        "android_client_info": {
+          "package_name": "com.example.outfit2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492361164947-j5el8f1nl96kortpddnn30mla1j1t8j1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.outfit2",
+            "certificate_hash": "e9ebb68db7708aa6145e54dec8a5490945e446c6"
+          }
+        },
+        {
+          "client_id": "492361164947-oc7sof06o3opl7g4j9p5sauo23lu4ph0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPtm3llvcIVvvprFV2d50yIEkTuQXlCr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492361164947-oc7sof06o3opl7g4j9p5sauo23lu4ph0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492361164947:android:91d1c7d88238bb1f448566",
+        "android_client_info": {
+          "package_name": "com.example.outfit_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492361164947-mdu6s0bjf68f9vbbt7m2t421mli2dnd8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.outfit_app",
+            "certificate_hash": "e9ebb68db7708aa6145e54dec8a5490945e446c6"
+          }
+        },
+        {
+          "client_id": "492361164947-oc7sof06o3opl7g4j9p5sauo23lu4ph0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPtm3llvcIVvvprFV2d50yIEkTuQXlCr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492361164947-oc7sof06o3opl7g4j9p5sauo23lu4ph0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492361164947:android:711eb2b154ad15bb448566",
+        "android_client_info": {
+          "package_name": "com.santosenoque.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492361164947-jr7ctptkoto073vhg3vf2tnbfvha7g6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.santosenoque.chatapp",
+            "certificate_hash": "e9ebb68db7708aa6145e54dec8a5490945e446c6"
+          }
+        },
+        {
+          "client_id": "492361164947-oc7sof06o3opl7g4j9p5sauo23lu4ph0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPtm3llvcIVvvprFV2d50yIEkTuQXlCr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492361164947-oc7sof06o3opl7g4j9p5sauo23lu4ph0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
