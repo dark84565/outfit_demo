@@ -159,12 +159,7 @@ class _MessagePageState extends State<MessagePage> {
               fontFamily: '思源宋體',
               fontWeight: FontWeight.w600),
         ),
-        leading: IconButton(
-          onPressed: () {
-            Navigator.pop(context);
-          },
-          icon: Icon(Icons.arrow_back_ios_outlined),
-        ),
+        leading: Container(),
       ),
       body: StreamBuilder(
         stream: getMessageStream,
@@ -200,8 +195,8 @@ class _MessagePageState extends State<MessagePage> {
           return Container(
             child: MaterialButton(
               onPressed: () {
-                Navigator.push(context,
-                    MaterialPageRoute(builder: (content) => ChatRoom()));
+                // Navigator.push(context,
+                //     MaterialPageRoute(builder: (content) => ChatRoom()));
               },
               child: Row(
                 children: [
