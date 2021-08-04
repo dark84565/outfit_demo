@@ -1,5 +1,5 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'file:///C:/Users/dark8/AndroidStudioProjects/outfit2/lib/Database/Constants.dart';
+import 'package:outfit2/Database/Constants.dart';
 
 class DatabaseMethods {
   Future<void> addData(userData) async {

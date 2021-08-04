@@ -1,13 +1,12 @@
-import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
-import 'file:///C:/Users/dark8/AndroidStudioProjects/outfit2/lib/MainPage/HomePage.dart';
-import 'file:///C:/Users/dark8/AndroidStudioProjects/outfit2/lib/MainPage/SearchPage.dart';
-import 'file:///C:/Users/dark8/AndroidStudioProjects/outfit2/lib/MainPage/MessagePage.dart';
-import 'file:///C:/Users/dark8/AndroidStudioProjects/outfit2/lib/MainPage/AccountPage.dart';
-import 'file:///C:/Users/dark8/AndroidStudioProjects/outfit2/lib/Database/Constants.dart';
-import 'file:///C:/Users/dark8/AndroidStudioProjects/outfit2/lib/Auth/AuthService.dart';
+import 'package:outfit2/Auth/AuthService.dart';
+import 'package:outfit2/Database/Constants.dart';
+import 'package:outfit2/MainPage/HomePage.dart';
+import 'package:outfit2/MainPage/SearchPage.dart';
+import 'package:outfit2/MainPage/MessagePage.dart';
+import 'package:outfit2/MainPage/AccountPage.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

@@ -1,9 +1,7 @@
 import 'package:flutter/material.dart';
 import 'dart:io';
 import 'package:image_picker/image_picker.dart';
-import 'package:provider/provider.dart';
-import 'package:outfit2/Database/Firebase.dart';
-import 'file:///C:/Users/dark8/AndroidStudioProjects/outfit2/lib/Model/Post.dart';
+import 'package:outfit2/Model/Post.dart';
 import 'package:outfit2/EditPage.dart';
 import 'package:outfit2/Database/Database.dart';
 import 'package:sqflite/sqflite.dart';

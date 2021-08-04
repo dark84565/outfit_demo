@@ -1,14 +1,14 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:outfit2/Database/Constants.dart';
+import 'package:outfit2/Model/Post.dart';
 import 'dart:io';
-import 'file:///C:/Users/dark8/AndroidStudioProjects/outfit2/lib/Database/Constants.dart';
 import 'package:outfit2/SettingPage.dart';
 import 'package:sqflite/sqflite.dart';
 import '../Database/Firebase.dart';
 import 'package:outfit2/Database/Database.dart';
 import 'package:outfit2/CollectionPage.dart';
 import 'package:outfit2/MyOutfits.dart';
-import 'file:///C:/Users/dark8/AndroidStudioProjects/outfit2/lib/Model/Post.dart';
 
 class AccountPage extends StatefulWidget {
   @override

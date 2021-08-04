@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'file:///C:/Users/dark8/AndroidStudioProjects/outfit2/lib/Database/Firebase.dart';
+import 'package:outfit2/Database/Firebase.dart';
 import 'package:outfit2/GridTilesCategory.dart';
 
 class CategoryList extends StatefulWidget {

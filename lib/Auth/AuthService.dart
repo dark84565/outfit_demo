@@ -1,13 +1,13 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:google_sign_in/google_sign_in.dart';
-import 'file:///C:/Users/dark8/AndroidStudioProjects/outfit2/lib/Auth/SignInPage.dart';
-import 'file:///C:/Users/dark8/AndroidStudioProjects/outfit2/lib/Model/UserModel.dart';
 import 'package:flutter/material.dart';
-import 'file:///C:/Users/dark8/AndroidStudioProjects/outfit2/lib/Database/Firebase.dart';
-import 'file:///C:/Users/dark8/AndroidStudioProjects/outfit2/lib/Auth/RegisterPage.dart';
-import 'file:///C:/Users/dark8/AndroidStudioProjects/outfit2/lib/Database/Constants.dart';
 import 'dart:async';
+import 'package:outfit2/Auth/RegisterPage.dart';
+import 'package:outfit2/Auth/SignInPage.dart';
+import 'package:outfit2/Database/Constants.dart';
+import 'package:outfit2/Database/Firebase.dart';
+import 'package:outfit2/Model/UserModel.dart';
 
 String name;
 String email;

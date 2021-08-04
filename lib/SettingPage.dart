@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'file:///C:/Users/dark8/AndroidStudioProjects/outfit2/lib/Auth/AuthService.dart';
+import 'package:outfit2/Auth/AuthService.dart';
 
 class SettingPage extends StatelessWidget {
   @override

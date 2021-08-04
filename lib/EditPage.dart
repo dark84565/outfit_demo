@@ -1,9 +1,9 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:outfit2/Database/Database.dart';
+import 'package:outfit2/Model/Post.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:path/path.dart' as path;
-import 'file:///C:/Users/dark8/AndroidStudioProjects/outfit2/lib/Model/Post.dart';
 import 'dart:io';
 import 'package:intl/intl.dart'; //日期套件
 

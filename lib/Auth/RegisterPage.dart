@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'file:///C:/Users/dark8/AndroidStudioProjects/outfit2/lib/Database/Constants.dart';
-import 'file:///C:/Users/dark8/AndroidStudioProjects/outfit2/lib/Auth/AuthService.dart';
-import 'file:///C:/Users/dark8/AndroidStudioProjects/outfit2/lib/Database/Firebase.dart';
+import 'package:outfit2/Auth/AuthService.dart';
+import 'package:outfit2/Database/Constants.dart';
+import 'package:outfit2/Database/Firebase.dart';
 import 'package:outfit2/main.dart';
 
 class RegisterPage extends StatefulWidget {

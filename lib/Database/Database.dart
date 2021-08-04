@@ -1,7 +1,7 @@
 import 'dart:io';
+import 'package:outfit2/Model/Post.dart';
 import 'package:sqflite/sqflite.dart';
 import 'package:path_provider/path_provider.dart';
-import 'file:///C:/Users/dark8/AndroidStudioProjects/outfit2/lib/Model/Post.dart';
 
 class DatabaseHelper {
   static DatabaseHelper _databaseHelper; // Singleton DatabaseHelper
